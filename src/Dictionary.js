@@ -24,9 +24,11 @@ export default function Dictionary(props) {
 
   return (
     <div className="Dictionary">
+      <section>
       <form onSubmit={search}>
         <input type="search" onChange={handleKeywordChange} />
       </form>
+      </section>
       {results ? <Results results={results} /> : null}
     </div>
   );
