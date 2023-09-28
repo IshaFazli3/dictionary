@@ -12,7 +12,9 @@ function App() {
   </main>
   
   <footer className="App-footer">
-    <small>Coded by Isha Fazli</small></footer>
+    <small>Coded by Isha Fazli and is open sourced on
+       <a href="https://github.com/IshaFazli3/dictionary/tree/main" 
+       target="_blank">Github</a></small></footer>
     </div>
     
     </div>
