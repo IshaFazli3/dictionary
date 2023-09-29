@@ -14,7 +14,7 @@ function App() {
   <footer className="App-footer">
     <small>Coded by Isha Fazli and is open sourced on
     <a rel='noreferrer' 
-    href="https://github.com/IshaFazli3/dictionary/tree/main"></a></small></footer>
+    href="https://github.com/IshaFazli3/dictionary/tree/main">Github</a></small></footer>
     </div>
     
     </div>
