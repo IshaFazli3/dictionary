@@ -13,8 +13,8 @@ function App() {
   
   <footer className="App-footer">
     <small>Coded by Isha Fazli and is open sourced on
-       <a href="https://github.com/IshaFazli3/dictionary/tree/main" 
-       target="_blank">Github</a></small></footer>
+    <a rel='noreferrer' 
+    href="https://github.com/IshaFazli3/dictionary/tree/main"></a></small></footer>
     </div>
     
     </div>
